@@ -1,5 +1,5 @@
 # orange-hrm-automation-testng
-This is a complete project where a Demo site site is automated by writing test suites using selenium-webdriver and TestNg as testing framework.
+### This is a complete project where a Demo site site is automated by writing test suites using selenium-webdriver and TestNg as testing framework.
 
 ## Scenerio
 1. Visit the site: https://opensource-demo.orangehrmlive.com/ 
