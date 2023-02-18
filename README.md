@@ -37,7 +37,6 @@ View the excel file from this  [link](https://docs.google.com/spreadsheets/d/188
   - allure generate allure-results --clean -o allure-report
   - allure serve allure-results        
  
-
 ## Prerequisite
 - TestNG,Selenium Webdriver,Java-8 or higher dependencies must be installed
 
